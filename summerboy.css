@@ -1,0 +1,24 @@
+
+
+.container {
+   padding: 20px;
+   border: 1px solid #ff009d;
+}
+.title {
+   font-size: 24px;
+   text-align: center;
+   color:#ff009d;
+}
+.highlight {
+   color:#ff009d;
+   font-weight: bold;
+}
+
+.facts {
+    color:#ff009d;
+    font-weight: bold;
+}
+
+.cat {
+    color:#ff009d;
+}
