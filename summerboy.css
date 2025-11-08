@@ -1,8 +1,14 @@
 
+#container{
+   background-color: rgb(255, 255, 180);
+   text-align: center;
+}
 
 .container {
    padding: 20px;
    border: 1px solid #ff009d;
+   background-color: rgb(255, 182, 218);
+
 }
 .title {
    font-size: 24px;
