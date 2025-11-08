@@ -6,10 +6,9 @@
    <title>Form Elements</title>
 </head>
 <body>
-
+<form action="/submit" method="post">
    <fieldset>
    <legend>Personal Information</legend>
-   <form action="/submit" method="post">
        <label for="name">Name:</label>
        <input type="text" id="name" name="name" required><br>
        <form action="/submit" method="post">
@@ -21,7 +20,6 @@
        <form action="/submit" method="post">
        <textlable id="extra"rows="4" cols="50">Extra information:</textlable>
        <input type="extra" id="extra" name="extra" required><br>
-   </form>
    </fieldset>
 
    <fieldset>
@@ -37,6 +35,6 @@
        <button type="submit">Submit</button>
        <button type="reset">Reset</button>
     </fieldset>
-
+</form>
 </body>
 </html>
