@@ -1,0 +1,40 @@
+.starter {
+   padding: 20px;
+   border: 2px solid rgb(78, 53, 29);
+   background-color: rgb(255, 243, 192);
+   font-family: 'Times New Roman', sans-serif;
+
+}
+.title {
+    font-size: 30px;
+    text-align: center;
+    color:rgb(255, 121, 172);
+}
+.paragraph {
+    font-weight: bold;
+    color:rgb(255, 121, 172);
+}
+.second {
+    padding: 30px;
+    border: 2px solid rgb(78, 53, 29);
+    background-image: url(https://thumbs.dreamstime.com/b/deliciously-textured-stripes-neapolitan-ice-cream-macro-abstract-food-background-vibrant-top-down-shot-showcasing-distinct-408549075.jpg) ;
+    width: 800px;
+    height: 487px;
+}
+.name {
+    font-size: 25px;
+    text-align: center;
+    color: rgb(78, 53, 29);
+}
+.third {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid rgb(194, 91, 131);
+    background-color: rgb(255, 194, 217);
+    font-family: 'Times New Roman', sans-serif;
+}
+#third {
+    padding: 10px;
+    border: 2px solid rgb(78, 53, 29);
+    background-image: url(https://t3.ftcdn.net/jpg/00/65/03/78/360_F_65037872_WwbuU36z15K901vImQutmS7Udc6pWeot.jpg);
+}
