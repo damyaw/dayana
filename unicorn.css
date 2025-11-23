@@ -1,0 +1,34 @@
+.first {
+    padding: 200px;
+    border: 2px solid rgb(0, 0, 0);
+    background-image: url(https://cdn.eso.org/images/screen/eso1213a.jpg);
+    font-family:'Ballet', ;
+}
+.title {
+    font-size: 30px;
+    text-align: center;
+    color:rgb(177, 26, 197);
+}
+.paragraph {
+    font-weight: bold;
+    color:rgb(166, 7, 187);
+    text-align: center;
+}
+.minipara {
+    font-weight: bold;
+    color:rgb(166, 7, 187);
+    text-align: center;
+}
+.photoone{
+    font-size: 30px;
+    border: 2px solid rgb(0, 0, 0);
+    background-image: url(https://www.rmg.co.uk/sites/default/files/styles/max_2600x2600/public/PS36464_Transport%20the%20Soul%20%C2%A9%20Brad%20Goldpaint.jpg.webp?itok=eDVSkORt);
+    width: 800px;
+    height: 400px;
+    text-align: center;
+}
+.lol {
+    font-size: 30px;
+    text-align: center;
+    color:rgb(177, 26, 197);
+}
