@@ -2,25 +2,27 @@
     padding: 200px;
     border: 2px solid rgb(0, 0, 0);
     background-image: url(https://cdn.eso.org/images/screen/eso1213a.jpg);
-    font-family:'Ballet', ;
+    font-family:'Helevica';
 }
 .title {
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
     color:rgb(177, 26, 197);
 }
 .paragraph {
+    font-size: 30px;
     font-weight: bold;
-    color:rgb(166, 7, 187);
+    color:rgb(177, 26, 197);
     text-align: center;
 }
 .minipara {
+    font-size: 30px;
     font-weight: bold;
-    color:rgb(166, 7, 187);
+    color:rgb(177, 26, 197);
     text-align: center;
 }
 .photoone{
-    font-size: 30px;
+    font-size: 40px;
     border: 2px solid rgb(0, 0, 0);
     background-image: url(https://www.rmg.co.uk/sites/default/files/styles/max_2600x2600/public/PS36464_Transport%20the%20Soul%20%C2%A9%20Brad%20Goldpaint.jpg.webp?itok=eDVSkORt);
     width: 800px;
@@ -28,7 +30,35 @@
     text-align: center;
 }
 .lol {
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
-    color:rgb(177, 26, 197);
+    color:rgb(252, 231, 255);
+}
+.phototwo {
+    margin: 20px;
+    font-size: 40px;
+    border: 2px solid rgb(0, 0, 0);
+    background-image: url(https://cdn.mos.cms.futurecdn.net/dpK2sVqnYApsbZrZjjno8T-970-80.jpg.webp);
+    width: 800px;
+    height: 800px;
+    text-align: center;
+}
+.do {
+    font-size: 20px;
+    text-align: center;
+    color:rgb(252, 231, 255);
+}
+.photothree {
+    margin: 20px;
+    font-size: 40px;
+    border: 2px solid rgb(0, 0, 0);
+    background-image: url(https://media.wired.com/photos/598e1467be7f0006258fff0b/3:2/w_1920,c_limit/Scintillate%20-%202048%20.jpg);
+    width: 800px;
+    height: 800px;
+    text-align: center;
+}
+.run {
+    font-size: 20px;
+    text-align: center;
+    color:rgb(252, 231, 255);
 }
